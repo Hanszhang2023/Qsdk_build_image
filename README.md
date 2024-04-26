@@ -1,1 +1,3 @@
 # Qsdk_build_image
+## Support soc platform :IPQ9574 ,IPQ5018,IPQ6000,IPQ5322
+## software :SPF11.4  SPF11.5 ,SP12.2   etc and lastest version
